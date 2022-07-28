@@ -4,3 +4,7 @@
 .discover-font-size{
     font-size: 4vw;
 }
+.explore-bg-color{
+    background-color: rgb(239, 247, 244);
+    margin-left:-12px;
+}
